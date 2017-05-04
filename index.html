@@ -8,8 +8,8 @@ tagline:
 <article class="home">
 
  <span class="post-date">
-   {% assign m = page.date | date: "%-m" %}
-   {{ page.date | date: "%-d de" }}
+   {% assign m = post.date | date: "%-m" %}
+   {{ post.date | date: "%-d de" }}
    {% case m %}
      {% when '1' %}enero
      {% when '2' %}febrero
@@ -24,7 +24,7 @@ tagline:
      {% when '11' %}noviembre
      {% when '12' %}diciembre
    {% endcase %}
-   {{ page.date | date: "de %Y" }}
+   {{ post.date | date: "de %Y" }}
  </span>
 
   <h2>
