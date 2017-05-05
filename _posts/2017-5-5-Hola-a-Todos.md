@@ -15,4 +15,15 @@ Durante estos ultimos años he estado investigando para buscar ese método que m
 
 Como informático que soy no puedo disociar GTD de un ordenador, y por ello busque como implementar GTD en mi puesto de trabajo.
 
-Como he mencionado en el parrafo anterior...
+Como he mencionado en el parrafo anterior trabajo en el departamento de Organización y tecnológia para un grupo de empresas. Actualmente tengo la responsabilidad de dirigir a un equipo de trabajo dedicandonos a dar soporte al resto de usuarios del grupo.
+
+
+Cuando uno decide usar GTD **lo primero que debe tener claro es que debe anotar todo para liberar su mente**, es decir, debe tener una bandeja donde depositar los inputs o entradas que recibe a lo largo del día.
+
+**Lo segundo que hay que tener claro es que debe reservar un periodo del día para analizar la bandeja de entrada y decidir que va hacer con cada uno de los elementos que hay en ella**
+
+Cuando uno esta revisando la bandeja de entrada pueden suceder varias cosas:
+
+1) No voy hacer nada con elemento que estoy analizando y por lo tanto lo **elimino**
+2) Es una cosa tan sencilla que me va a llevar **menos de 2 minutos y por lo tanto lo hago ya**
+3) ...
