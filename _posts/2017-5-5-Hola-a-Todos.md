@@ -2,7 +2,7 @@
 layout: post
 title: ¡Hola a Todos!
 categories: [Productividad]
-tags: [general]
+tags: [GTD]
 fullview: true
 comments: true
 ---
