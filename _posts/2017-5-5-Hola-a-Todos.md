@@ -30,3 +30,7 @@ Cuando uno esta revisando la bandeja de entrada pueden suceder varias cosas:
 4. Es una tarea que podría realizar **algún día**
 5. Es una tarea que puedo **delegar**
 6. Es una información (que no tarea) que es interesante que **archive**
+
+Bueno por hoy no me voy a alargar más, en proximos post os contaré como implemento este metodo de productividad con las herramientas informáticas que manejo en mi empresa.
+
+¡Hasta el próximo post!
