@@ -25,5 +25,8 @@ Cuando uno decide usar GTD **lo primero que debe tener claro es que debe anotar 
 Cuando uno esta revisando la bandeja de entrada pueden suceder varias cosas:
 
 1. No voy hacer nada con elemento que estoy analizando y por lo tanto lo **elimino**
-2. Es una cosa tan sencilla que me va a llevar **menos de 2 minutos y por lo tanto lo hago ya**
-3. ...
+2. Es una tarea tan sencilla que me va a llevar **menos de 2 minutos y por lo tanto lo hago ya**
+3. Es una tarea que debo realizar **proximamente** y la agendo
+4. Es una tarea que podría realizar **algún día**
+5. Es una tarea que puedo **delegar**
+6. Es una información (que no tarea) que es interesante que **archive**
